@@ -2,18 +2,8 @@
 
 ### Portfolio 
 
+
 ## Backend Project #1
-
-###  Title : poc-blog  
- //이미지
-#### tech : Kotlin , spring boot , JPA 
-##### POC를 위한 mini blog project  
-#### 소스코드 : 링크
-#### role : 백엔드 개발
-- Kotlin, Spring boot, JPA를 활용한 REST api 구현
-- api 연동 추가 기능 구현 
-
-## Backend Project #2
 ### Title : 스마일게이트 stove 게임 플랫폼 
 ![image](https://github.com/DevelopersWorkOut/portfolio/assets/154348908/76a82e7e-45ed-4939-bdc9-9b307b5bcb4e)
 
@@ -23,7 +13,17 @@
 #### role : 스마일게이트 게임 플랫폼 백엔드 개발 
 - 스마일게이트 스토브 게임 플랫폼 커뮤니티 백엔드 API 개발 
 - 스토브게임 플랫폼 백오피스 API 개발
-
+- 
+## Backend Project #2
+###  Title : poc-blog  개인프로젝트 
+ //이미지
+#### tech : Kotlin , spring boot , JPA 
+##### POC를 위한 mini blog project  
+#### 소스코드 : Link(https://github.com/DevelopersWorkOut/Blog-poc.git)
+#### role : 백엔드 개발
+- Kotlin, Spring boot, JPA를 활용한 REST api 구현
+- api 연동 추가 기능 구현
+- 
 ## 2D Game project
 ### Title : Lynn,The Girl Drawn on Puzzle 
 https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000767386
