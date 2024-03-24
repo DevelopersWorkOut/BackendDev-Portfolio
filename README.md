@@ -6,7 +6,7 @@
 ### Title : 스마일게이트 stove 게임 플랫폼 
 ![image](https://github.com/DevelopersWorkOut/portfolio/assets/154348908/76a82e7e-45ed-4939-bdc9-9b307b5bcb4e)
 
-#### tech : Spring, java, MySQL 
+#### tech : Java , Spring, MySQL ,redis
 ##### 스마일게이트 게임 플랫폼
 ##### https://www.onstove.com/
 #### role : 스마일게이트 게임 플랫폼 백엔드 개발 
@@ -20,12 +20,12 @@
 - 
 ## Backend Project #2
 ###  Title : Milestone Manager 
-#### tech : Java , spring
+#### tech : Java , Spring, JPA
 ##### 이슈트래킹 시스템 
 #### 소스코드 : Link(https://github.com/DevelopersWorkOut/IssueManager)
 #### role : 백엔드 개발
-- Java, Spring boot 백엔드 개발 
-- 스마일게이트 사내 프로젝트
+- 서비스 백엔드 API 개발 
+- 이슈트래킹 및 마일스톤 관리를 위한 서비스 ( 스마일게이트 사내 프로젝트)
 - 
 ## Backend Project #3
 ###  Title : poc-blog  개인프로젝트 (개발 진행 중) 
