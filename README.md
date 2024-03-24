@@ -3,7 +3,8 @@
 ### Portfolio 
 
 ## Backend Project
-###  BlueRumble  
+
+###  Title : poc-blog  
 #### tech : Kotlin , spring boot , JPA 
 ##### POC를 위한 mini blog project  
 ##### 개발 목표
@@ -11,7 +12,6 @@
 - Kotlin, Spring boot, JPA를 활용한 REST api 구현
 - api 연동 추가 기능 구현 
 
-## Backend Project
 ### Title : 스마일게이트 stove 게임 플랫폼 
 ![image](https://github.com/DevelopersWorkOut/portfolio/assets/154348908/76a82e7e-45ed-4939-bdc9-9b307b5bcb4e)
 
@@ -23,7 +23,8 @@
 - 스토브게임 플랫폼 백오피스 API 개발
 
 ## 2D Game project
-### Lynn,The Girl Drawn on Puzzle 
+### Title : Lynn,The Girl Drawn on Puzzle 
+https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000767386
 #### tech : Unity , C# , Git 
 ##### 슬라이딩 퍼즐 기반의 동양풍 모바일 게임 개발
 ##### 모바일 / PC 멀티플랫폼 게임 개발 및 출시 
