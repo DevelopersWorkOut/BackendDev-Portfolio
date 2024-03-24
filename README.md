@@ -2,7 +2,7 @@
 
 ### Portfolio 
 
-## Backend Project
+## Backend Project #1
 
 ###  Title : poc-blog  
 #### tech : Kotlin , spring boot , JPA 
@@ -12,6 +12,7 @@
 - Kotlin, Spring boot, JPA를 활용한 REST api 구현
 - api 연동 추가 기능 구현 
 
+## Backend Project #2
 ### Title : 스마일게이트 stove 게임 플랫폼 
 ![image](https://github.com/DevelopersWorkOut/portfolio/assets/154348908/76a82e7e-45ed-4939-bdc9-9b307b5bcb4e)
 
