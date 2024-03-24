@@ -5,9 +5,10 @@
 ## Backend Project #1
 
 ###  Title : poc-blog  
+ //이미지
 #### tech : Kotlin , spring boot , JPA 
 ##### POC를 위한 mini blog project  
-##### 개발 목표
+#### 소스코드 : 링크
 #### role : 백엔드 개발
 - Kotlin, Spring boot, JPA를 활용한 REST api 구현
 - api 연동 추가 기능 구현 
