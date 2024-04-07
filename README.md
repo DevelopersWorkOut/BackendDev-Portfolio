@@ -34,7 +34,8 @@
 #### 소스코드 : Link(https://github.com/DevelopersWorkOut/Blog-poc.git)
 #### role : 백엔드 개발
 - Kotlin, Spring boot, JPA를 활용한 REST api 구현
-- api 연동 추가 기능 구현
+- CI/CD 구축
+- Docker, K8S
 
 
 ## 2D Game project
@@ -47,4 +48,11 @@ https://m.onestore.co.kr/mobilepoc/apps/appsDetail.omp?prodId=0000767386
 - Unity 게임 클라이언트 개발 및 안드로이드 , PC 플랫폼  빌드 및 출시
 - Steam SDK 연동 및 GoogleAdmob, UnityAds SDK 연동 
   
-
+## 3D Game project
+[![BlueRumble프로젝트시연영상]( https://img.youtube.com/vi/XCUrM4KZURY/0.jpg)](https://www.youtube.com/watch?v=XCUrM4KZURY)
+###  BlueRumble  
+#### tech : Unity, Netcode(구 Unet) , C# 
+##### 폴가이즈 컨셉의 멀티플레이 캐주얼게임 
+##### 제한 시간 안에 많은 점수를 획득 하는 것이 목표
+#### role : 멀티플레이 게임 개발
+- Unity 사에서 제공하는 NetCode(구 Unet) 을  활용하여 RPC기반 멀티플레이 기능 구현
