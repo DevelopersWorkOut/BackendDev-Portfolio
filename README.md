@@ -34,8 +34,7 @@
 #### 소스코드 : Link(https://github.com/DevelopersWorkOut/Blog-poc.git)
 #### role : 백엔드 개발
 - Kotlin, Spring boot, JPA를 활용한 REST api 구현
-- CI/CD 구축
-- Docker, K8S
+
 
 
 ## 2D Game project
